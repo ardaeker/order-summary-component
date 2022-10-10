@@ -21,16 +21,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./src/images/screenshot/screenshot-desktop.png)
+![](./src/images/screenshot/screenshot-desktop.png)
 
-![Mobile](./src/images/screenshot/screenshot-mobile.png)
+![](./src/images/screenshot/screenshot-mobile.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Live Site URL: [Live site URL here](https://ardaekerfrontendmentor-05.netlify.app/)
 
 
 
