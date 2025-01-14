@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     'TypeScript',
     'Arda Eker',
   ],
-  metadataBase: new URL('http://localhost:3000/'),
+  metadataBase: new URL('https://order-summary-component-woad-one.vercel.app/'),
   openGraph: {
     title: 'Frontend Mentor - Order summary component',
     description:
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'http://localhost:3000',
+    canonical: 'https://order-summary-component-woad-one.vercel.app',
   },
   icons: {
     icon: '/icon.png',
