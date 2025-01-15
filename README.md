@@ -36,7 +36,6 @@ Users should be able to:
 - [Next.js](https://nextjs.org/) - React framework with App Router
 - [TypeScript](https://www.typescriptlang.org/) - For type safety
 - [Tailwind CSS](https://tailwindcss.com/) - For utility-first styling
-- [Radix UI](https://www.radix-ui.com/primitives/docs/components/accordion) - For accessible accordion component
 - [Vitest](https://vitest.dev/) - For unit testing
 - Semantic HTML5 markup
 - Mobile-first responsive design
