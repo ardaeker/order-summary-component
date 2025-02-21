@@ -14,9 +14,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Frontend Mentor - Order summary component',
+  title: 'Arda Eker - Order summary component',
   description:
-    'This website is a solution for the Order summary component challenge on Frontend Mentor. It is built with Next.js and Tailwind CSS. Coded by Arda Eker.',
+    'A mobile-friendly order summary card with comprehensive testing and SEO setup.',
   authors: {
     name: 'Arda Eker',
     url: 'https://github.com/ardaeker',
@@ -34,10 +34,10 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL('https://order-summary-component-woad-one.vercel.app/'),
   openGraph: {
-    title: 'Frontend Mentor - Order summary component',
+    title: 'Arda Eker - Order summary component',
     description:
-      'This website is a solution to the Order summary component challenge on Frontend Mentor. It is built with Next.js, Tailwind CSS, and TypeScript. Coded by Arda Eker.',
-    siteName: 'Frontend Mentor - Order summary component',
+      'A mobile-friendly order summary card with comprehensive testing and SEO setup.',
+    siteName: 'Arda Eker - Order summary component',
     images: [
       {
         url: 'open-graph-image.png',
@@ -46,9 +46,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://order-summary-component-woad-one.vercel.app',
-  },
-  icons: {
-    icon: '/icon.png',
   },
 };
 
